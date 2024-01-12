@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello! I am Patryk, Fullstack Developer 👋🖥
+
+## About me
+
+I am 23 years old Fullstack Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on → <a href="https://twitter.com/PatrykR00" style="text-decoration: none;">Twitter</a>. 
+
+## Statistics
+
+[![PatrykR01 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykR01&layout=pie&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **PatrykR01/PatrykR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
