@@ -12,15 +12,20 @@ Full-Stack Developer 💻, Video Editor 🎥 and Designer 🎨!
 
 I am 23 years old Fullstack Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on <a href="https://twitter.com/PatrykR00" style="text-decoration: none;"> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
 
+### 🤝 Contact to me:
+<a href=""/>
+
 ## 🔭 I’m currently working on
 
 - Portfolio website (making it more responsive and UX friendly)
 - New component for everyone to use it
 - My next project after component
 
-## - 🌱 I’m currently learning 
+## 🌱 I’m currently learning 
 
-- Java 
+- Java
+- React (better using React)
+- Tailwind CSS 
 
 ## Statistics
 
