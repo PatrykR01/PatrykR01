@@ -8,6 +8,10 @@ Full-Stack Developer 💻, Video Editor 🎥 and Designer 🎨!
 </h2>
 <br>
 
+<p>
+  <a href="https://patryk-romanski.netlify.app"><img src="https://github.com/PatrykR01/PatrykR01/assets/99299154/7ef66f48-a1c7-4dbe-a3b0-9a0e4ed4697e" alt="My_logo_banner"/></a>
+</p>
+
 <h2 align="center">🙌 About me</h2>
 
 I am 23 years old Fullstack Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on <a href="https://twitter.com/PatrykR00" style="text-decoration: none;"> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
