@@ -4,7 +4,7 @@ Hello! I am <a href="https://patryk-romanski.netlify.app" target="_blank" rel="n
 
 
 <h2 align="center">
-Full-Stack Developer 💻, Video Editor 🎥 and Designer 🎨!
+Full-Stack Developer 💻 and Video Editor 🎥!
 </h2>
 <br>
 
