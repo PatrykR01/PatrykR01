@@ -14,7 +14,7 @@ Full-Stack Developer 💻 and Video Editor 🎥!
 
 <h2 align="center">🙌 About me</h2>
 
-I am 25 years old Web App Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on <a href="https://twitter.com/PatrykR00" style="text-decoration: none;"> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+I am 25 years old Web App Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on Linkedin.
 
 <br>
 
