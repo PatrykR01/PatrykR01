@@ -1,5 +1,5 @@
 <h3 align="center">
-Hello! I am <a href="https://patryk-romanski.netlify.app" target="_blank" rel="noreferrer">Patryk</a> 👋
+Hello! I am <a href="https://patryk-romanski.pl" target="_blank" rel="noreferrer" style="color: none">Patryk</a> 👋
 </h3>
 
 
@@ -14,14 +14,13 @@ Full-Stack Developer 💻 and Video Editor 🎥!
 
 <h2 align="center">🙌 About me</h2>
 
-I am 23 years old Fullstack Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on <a href="https://twitter.com/PatrykR00" style="text-decoration: none;"> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+I am 25 years old Web App Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on <a href="https://twitter.com/PatrykR00" style="text-decoration: none;"> ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
 
 <br>
 
 ### 🤝 Contact to me:
 
 <a href="https://www.linkedin.com/in/patryk-romanski-497860235/"><img align="left" src="https://raw.githubusercontent.com/PatrykR01/PatrykR01/main/SVG/linkedin.svg" alt="Patryk Romański | LinkedIn" width="35px"/></a>
-<a href="https://www.twitter.com/PatrykR00"><img align="left" src="https://raw.githubusercontent.com/PatrykR01/PatrykR01/main/SVG/twitter-3-logo-svgrepo-com.svg" alt="Patryk Romański | Twitter" width="35px"/></a>
 <a href="https://www.facebook.com/profile.php?id=100080271055271"><img align="left" src="https://raw.githubusercontent.com/PatrykR01/PatrykR01/main/SVG/facebook-svgrepo-com.svg" alt="Patryk Romański | Facebook" width="35px"/></a>
 
 <br>
