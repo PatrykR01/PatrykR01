@@ -109,13 +109,10 @@ I am 25 years old Web App Developer who keen on design on websites (feeling of i
 
 ## 🌱 I’m currently learning 
 
-- Java
-- React (better using React)
-- Tailwind CSS
-- Learning how works SQL
-- Vercel and Firebase
-- IDX Google (preview access)
-
+- PHP
+- SQL/MySQL
+- Python
+- Google Cloud Platform
 
 
 ## 📈 Github statistics
