@@ -2,7 +2,6 @@
 Hello! I am <a href="https://patryk-romanski.pl" target="_blank" rel="noreferrer" style="color: none">Patryk</a> 👋
 </h3>
 
-
 <h2 align="center">
 Fullstack Developer 💻 and Video Editor 🎥!
 </h2>
