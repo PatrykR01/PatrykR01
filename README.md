@@ -123,7 +123,6 @@ I am 25 years old Fullstack developer who keen on design on websites (feeling of
 <h1>Look here! 🤔</h1>
 Come see my projects here 👇
 
-
 <!--
 **PatrykR01/PatrykR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
