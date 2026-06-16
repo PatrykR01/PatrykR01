@@ -99,7 +99,6 @@ I am 25 years old Fullstack developer who keen on design on websites (feeling of
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
 ## 🔭 I’m currently working on
 
 - Portfolio website (making it more responsive and UX friendly)
@@ -112,6 +111,7 @@ I am 25 years old Fullstack developer who keen on design on websites (feeling of
 - SQL/MySQL
 - Python
 - Google Cloud Platform
+- GitHub Fundamentals
 
 
 ## 📈 Github statistics
