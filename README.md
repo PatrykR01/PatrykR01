@@ -4,7 +4,7 @@ Hello! I am <a href="https://patryk-romanski.pl" target="_blank" rel="noreferrer
 
 
 <h2 align="center">
-Full-Stack Developer 💻 and Video Editor 🎥!
+Fullstack Developer 💻 and Video Editor 🎥!
 </h2>
 <br>
 
@@ -14,7 +14,7 @@ Full-Stack Developer 💻 and Video Editor 🎥!
 
 <h2 align="center">🙌 About me</h2>
 
-I am 25 years old Web App Developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on Linkedin.
+I am 25 years old Fullstack developer who keen on design on websites (feeling of it, making more responsive and interactive with user like animations) and sharing with others knowledge on my profile on Linkedin.
 
 <br>
 
