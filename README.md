@@ -1,5 +1,5 @@
 <h3 align="center">
-Hello! I am <a href="https://patryk-romanski.pl" target="_blank" rel="noreferrer" style="color: none">Patryk</a> 👋
+Hello! I am <a href="https://patrykromanski.com" target="_blank" rel="noreferrer" style="color: none">Patryk</a> 👋
 </h3>
 
 <h2 align="center">
