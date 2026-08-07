@@ -116,7 +116,7 @@ I am 25 years old Fullstack developer who keen on design on websites (feeling of
 
 ## 📈 Github statistics
 
-[![PatrykR01 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykR01&layout=compact&bg_color=#bababa&title_color=#000000&text_color=#000000&show_icons=true&border_color=#bababa)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PatrykR01&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=PatrykR01&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=swift)
 
 
 <h1>Look here! 🤔</h1>
