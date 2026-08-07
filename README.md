@@ -8,7 +8,7 @@ Fullstack Developer 💻 and Video Editor 🎥!
 <br>
 
 <p>
-  <a href="https://patryk-romanski.netlify.app" target="_blank"><img src="https://github.com/PatrykR01/PatrykR01/assets/99299154/7ef66f48-a1c7-4dbe-a3b0-9a0e4ed4697e" target="_blank" alt="My_logo_banner"/></a>
+  <a href="https://patrykromanski.com" target="_blank"><img src="https://github.com/PatrykR01/PatrykR01/assets/99299154/7ef66f48-a1c7-4dbe-a3b0-9a0e4ed4697e" target="_blank" alt="My_logo_banner"/></a>
 </p>
 
 <h2 align="center">🙌 About me</h2>
